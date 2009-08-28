@@ -1,0 +1,29 @@
+Simple JSP Upload is a simple upload application written as a couple
+of JSP pages.
+
+You need a Servlet Container to run it, e.g. Apache Tomcat.
+
+Uploaded files are places in a directory called "uploads". On Windows
+this directory is asumed to be located in C:\TEMP, on other systems
+it's asumed to be in /tmp.
+
+Remember to give write permissions to the uploads directory.
+
+----
+
+Copyright 2009 Søren Lund <soren@lund.org>
+
+This file is part of Simple JSP Upload.
+
+Simple JSP Upload is free software: you can redistribute it and/or
+modify it under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+Simple JSP Upload is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Simple JSP Upload.  If not, see http://www.gnu.org/licenses/
