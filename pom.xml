@@ -26,6 +26,12 @@ along with Simple JSP Upload.  If not, see http://www.gnu.org/licenses/
   <version>1.0-SNAPSHOT</version>
   <name>Simple JSP Upload</name>
   <url>http://github.com/soren/Simple-JSP-Upload/</url>
+
+  <scm>
+    <connection>scm:git:http://github.com/soren/Simple-JSP-Upload/tree/master</connection>
+    <developerConnection>scm:git:http://github.com/soren/Simple-JSP-Upload/tree/master</developerConnection>
+  </scm>
+
   <dependencies>
     <dependency>
       <groupId>commons-fileupload</groupId>
