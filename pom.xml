@@ -22,7 +22,7 @@ along with Simple JSP Upload.  If not, see http://www.gnu.org/licenses/
   <groupId>net.twonky.java.jsp</groupId>
   <artifactId>simple-jsp-upload</artifactId>
   <packaging>war</packaging>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>Simple JSP Upload</name>
   <url>http://github.com/soren/Simple-JSP-Upload/</url>
 
